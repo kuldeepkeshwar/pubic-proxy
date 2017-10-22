@@ -11,7 +11,7 @@ Steps to satisfy dependencies :
   
 # usage
 to use the utility after satisfying dependencies  
-`npm start -- --target YOUR.TARGET.HOSTNAME --port PORTNO.OF.YOUR.SYSTEM
+`npm start -- --target YOUR.TARGET.HOSTNAME --port PORTNO
 `
 
 # example
