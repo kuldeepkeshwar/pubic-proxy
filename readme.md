@@ -8,7 +8,12 @@ Steps to satisfy dependencies :
 2. Navigate to the source folder and execute the following command :
 `npm install
 `
-  
+Internally , the utility has the following minimum dependencies :  
+1. express 4.6.2
+2. express-http-proxy 1.0.7
+3. ngrok 2.2.22
+4. yargs 9.0.1  
+
 # usage
 to use the utility after satisfying dependencies  
 `npm start -- --target YOUR.TARGET.HOSTNAME --port PORTNO.OF.YOUR.SYSTEM
